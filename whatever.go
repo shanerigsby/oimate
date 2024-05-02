@@ -1,4 +1,4 @@
-package oimate
+package yada
 
 import "fmt"
 
