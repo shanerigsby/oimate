@@ -1,4 +1,4 @@
-package anythingheredoesnotmatterright
+package oimate
 
 import "fmt"
 
