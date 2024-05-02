@@ -3,5 +3,5 @@ package oimate
 import "fmt"
 
 func Oi() {
-	fmt.Println("Oi, mate! 12:26pm is current?")
+	fmt.Println("Oi, mate! 1:53pm is current...")
 }
