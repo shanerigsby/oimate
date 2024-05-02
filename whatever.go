@@ -1,7 +1,7 @@
-package yada
+package oimate
 
 import "fmt"
 
 func Oi() {
-  fmt.Println("Oi, mate! Version is: 4")
+	fmt.Println("Oi, mate! Version is: 5")
 }
